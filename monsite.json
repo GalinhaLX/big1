@@ -1,6 +1,6 @@
 {
 	"hue": "20",
-	"isMode": true,
+	"isMode": false,
 	"min_count": "1",
 	"max_count": 3,
 	"logo": "https://bulma.io/images/bulma-logo.png",
@@ -13,7 +13,9 @@
 		{
 			"profile": "https://www.instagram.com/username/"
 		},
-		{}
+		{
+			"profile": "https://www.instagram.com/username/"
+		}
 	],
 	"image": "https://vakcin.com/assets/images/MIX_transparent.png",
 	"title": "Get 10% off side-wide when you spent $30 with code: new",
